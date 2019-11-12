@@ -1,6 +1,6 @@
 # 中文意图识别（BERT）
 
->### 关联项目：[中文命名实体识别（BERT）](https://github.com/471417367/ner)  
+>### 关联项目：[中文命名实体识别（BERT）](https://github.com/471417367/imag/blob/master/bert-ner-zh.md)  
 >### 1、*数据准备与预处理*  
 >### 2、*模型训练*  
 >### 3、*模型预测*  
